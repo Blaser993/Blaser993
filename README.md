@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Html, css, JavaScript, Vue, Vite**
 
-- 📫 How to reach me **corrado.depinto@gmail.com**
+- 📫 How to reach me **corradodepinto.design@gmail.com**
 
 - ⚡ Fun fact **I was a designer, lol 🐸**
 
