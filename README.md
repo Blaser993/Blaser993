@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corrado</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-- 💬 Ask me about **Html, css, JavaScript, Vue, Vite**
 
-- 📫 How to reach me **corradodepinto.design@gmail.com**
-
-- ⚡ Fun fact **I was a designer, lol 🐸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
